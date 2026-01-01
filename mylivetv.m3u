@@ -1,0 +1,153 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GeminiTV.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_TV/images/LOGO_HD/image.png" group-title="General",Gemini TV (1080p)
+https://livestream10.sunnxt.com/DolbyVision/GeminiTV_HDR/GeminiTV_HDR_Endpoints/GeminiTV-HDR10-IN-index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN-tel | Hungama TV HD" tvg-logo="https://rolextv.one:443/images/HjUNyHDk1GXCeTnp_TSKC9KWdMoHmeouKa0VTvsbFK42RDgLpI-AXZr6cuSVD3Ch.jpg" group-title="✯IND✯ TELUGU",IN-tel | Hungama TV HD
+http://filex.me:8080//live/Ghosia104/pathan104/519942.ts
+#EXTINF:-1 tvg-id="disneycinemagic.de" tvg-name="IN-tel | Disney Channel FHD (telgu)" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGh3Y9c_r7hR2zl7DvvnAkrg.png" group-title="✯IND✯ TELUGU",IN-tel | Disney Channel FHD (telgu)
+http://filex.me:8080//live/Ghosia104/pathan104/519948.ts
+#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="IN-tg | ETV PLUS HD" tvg-logo="https://rolextv.one:443/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTrzR_sySK54-mzJrrP8BfNmBC-YUnEDuArw2YDPvKnSg.png" group-title="✯IND✯ TELUGU",IN-tg | ETV PLUS HD
+http://filex.me:8080//live/Ghosia104/pathan104/519951.ts
+#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="IN-tg | ETV HD" tvg-logo="https://rolextv.one:443/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTO-t3SOFyxvE4mHD8n5Y5YWZgyML5N9oxov2u5k-X-bA.png" group-title="✯IND✯ TELUGU",IN-tg | ETV HD
+http://filex.me:8080//live/Ghosia104/pathan104/519953.ts
+#EXTINF:-1 tvg-id="5starmax.us" tvg-name="IN-tg | D2H STAR MAA FHD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGcEnzl9JuRz_5c7Xn9RZbLg.png" group-title="✯IND✯ TELUGU",IN-tg | D2H STAR MAA FHD
+http://filex.me:8080//live/Ghosia104/pathan104/520367.ts
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="IN-tg | D2H STAR MAA Movies FHD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGBi_QrFafHgdTaQtcEB_8nQmE8X4H2e8vAhJGetCDH6A.png" group-title="✯IND✯ TELUGU",IN-tg | D2H STAR MAA Movies FHD
+http://filex.me:8080//live/Ghosia104/pathan104/520368.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-tg | D2H SONY PIX FHD" tvg-logo="https://rolextv.one:443/images/UXtkyGhDugBYWGJv-P51osDDA_GvRfWm19gSBVwU4jv3z8G7trRUbL2Y4ejGLyjP8i41WgFPR8znp9IlikEJZQ.png" group-title="✯IND✯ TELUGU",IN-tg | D2H SONY PIX FHD
+http://filex.me:8080//live/Ghosia104/pathan104/520369.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-tg | D2H SONY YAY HD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGHibI8PUhoia70Uwh_Dy5Y3xVQ0k-Vrvt6UOy4CbOzz0.png" group-title="✯IND✯ TELUGU",IN-tg | D2H SONY YAY HD
+http://filex.me:8080//live/Ghosia104/pathan104/520370.ts
+#EXTINF:-1 tvg-id="bbcearth.no" tvg-name="IN-tg | D2H SONY BBC Earth FHD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGC9enNPNhMvtkmwF_21fPvToGVYglH-GWEkn5RciC4Is.png" group-title="✯IND✯ TELUGU",IN-tg | D2H SONY BBC Earth FHD
+http://filex.me:8080//live/Ghosia104/pathan104/520371.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-tg | D2H ZEE Telugu FHD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMG-YxdhRoLdZlaTtUug-DpVcvAB_sSF-NVWMLU_pyX5RE.png" group-title="✯IND✯ TELUGU",IN-tg | D2H ZEE Telugu FHD
+http://filex.me:8080//live/Ghosia104/pathan104/520372.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-tg | D2H ZEE Cinemalu FHD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGUhqLUhqZqLQIBaA9qOBs4RRnS2BjtpTc8-arpQ8NCGw.png" group-title="✯IND✯ TELUGU",IN-tg | D2H ZEE Cinemalu FHD
+http://filex.me:8080//live/Ghosia104/pathan104/520373.ts
+#EXTINF:-1 tvg-id="nationaltv.ro" tvg-name="IN-tg | D2H National Geographics FHD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGekQesAYZaB2eRNlSmDT6OKbjnso7hIsutqNjuaaJB0A.png" group-title="✯IND✯ TELUGU",IN-tg | D2H National Geographics FHD
+http://filex.me:8080//live/Ghosia104/pathan104/520374.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="IN-tg | D2H NAT GEO WILD FHD" tvg-logo="https://rolextv.one:443/images/Gb4eVgOeIeTeutfsdD1m4jDPYWaIi3jb720sLVqqHux0wLLaJk-m9tnPapiE36hnuokNcAfPrsMob-mRC0c4Ak5IThBlSxMZYR01sB5WFyNOF_3XEWM8MhHHI9K8uwiEbfOvLFvv93ZyCucJBBWfnvYutUCGp7cTS1Qe_1xfydQ.png" group-title="✯IND✯ TELUGU",IN-tg | D2H NAT GEO WILD FHD
+http://filex.me:8080//live/Ghosia104/pathan104/520375.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-tg | D2H Discovery Channel FHD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGkWPIIn4xtV-PTGrTsyMUJlck6SWmW3yTD8EP2TGfZvg.png" group-title="✯IND✯ TELUGU",IN-tg | D2H Discovery Channel FHD
+http://filex.me:8080//live/Ghosia104/pathan104/520376.ts
+#EXTINF:-1 tvg-id="history.de" tvg-name="IN-tg | D2H History TV18 FHD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGmeVj2KalHW62QNBsAS8-MOXUiArLbPwco3Z8Mui0A4c.png" group-title="✯IND✯ TELUGU",IN-tg | D2H History TV18 FHD
+http://filex.me:8080//live/Ghosia104/pathan104/520377.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-tg | TS Gemini TV FHD" tvg-logo="https://i.imgur.com/yWaacuI.png" group-title="✯IND✯ TELUGU",IN-tg | TS Gemini TV FHD
+http://filex.me:8080//live/Ghosia104/pathan104/520378.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-tg | D2H Gemini LIFE HD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGri3raWCVg84IoziPqf_PSmtqvTA9eQTozRcBb9EC070.png" group-title="✯IND✯ TELUGU",IN-tg | D2H Gemini LIFE HD
+http://filex.me:8080//live/Ghosia104/pathan104/520379.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-tg | Gemini Movies FHD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGl7I0LI7QflZQpEO0jsvVAHg-EBVGrwOFDkvEbDnGefU.png" group-title="✯IND✯ TELUGU",IN-tg | Gemini Movies FHD
+http://filex.me:8080//live/Ghosia104/pathan104/520380.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-tg | D2H Gemini Comedy HD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGYokxdNu2Lj1Uv05Gxi6c8iR-juxM_l8WfoUlqdr7R7Y.png" group-title="✯IND✯ TELUGU",IN-tg | D2H Gemini Comedy HD
+http://filex.me:8080//live/Ghosia104/pathan104/520381.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-tg | TS Gemini Music HD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGj01ZTQGa-rdDCe9QHFEtJspz1AkEmpRAyXKvjBCqjOw.png" group-title="✯IND✯ TELUGU",IN-tg | TS Gemini Music HD
+http://filex.me:8080//live/Ghosia104/pathan104/520382.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-tg | TS DD Yadagiri HD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGjdyEjdCaXW4DPZ2VSCaRDjNnYJZHEJNk6wIxZHTFPUU.png" group-title="✯IND✯ TELUGU",IN-tg | TS DD Yadagiri HD
+http://filex.me:8080//live/Ghosia104/pathan104/520383.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-tg | D2H &flix FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSER00FnJAi_l3_yLNVUkjzNeeFhm0lZp-0tQ&s" group-title="✯IND✯ TELUGU",IN-tg | D2H &flix FHD
+http://filex.me:8080//live/Ghosia104/pathan104/520384.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-tg | D2H Bhakti TV HD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMG4w48eLfpx_xPVo77Y3krDg.png" group-title="✯IND✯ TELUGU",IN-tg | D2H Bhakti TV HD
+http://filex.me:8080//live/Ghosia104/pathan104/520385.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-tg | TS DD Saptagiri HD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMG4rdh9OcAFu8Lz7ZIfrSZOnx_MunQme2hZdpHAJXeZao.png" group-title="✯IND✯ TELUGU",IN-tg | TS DD Saptagiri HD
+http://filex.me:8080//live/Ghosia104/pathan104/520386.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-tg | D2H ETV FHD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMG3Duj-v7j2OFjcbv4dLvTRw.png" group-title="✯IND✯ TELUGU",IN-tg | D2H ETV FHD
+http://filex.me:8080//live/Ghosia104/pathan104/520388.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-tg | D2H ETV LIFE HD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGWu39EipjBn-r0vEVyn31mQ.png" group-title="✯IND✯ TELUGU",IN-tg | D2H ETV LIFE HD
+http://filex.me:8080//live/Ghosia104/pathan104/520389.ts
+#EXTINF:-1 tvg-id="btvcinema.bg" tvg-name="IN-tg | TS ETV Cinema HD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMG8FalIvLmeZRzpi_XxBeoYD8eIuklzi9I3tFHXa43G1M.png" group-title="✯IND✯ TELUGU",IN-tg | TS ETV Cinema HD
+http://filex.me:8080//live/Ghosia104/pathan104/520390.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-tg | D2H Kushi TV HD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMG-9WvVKBFuEp6t1HuFvd8SQ.png" group-title="✯IND✯ TELUGU",IN-tg | D2H Kushi TV HD
+http://filex.me:8080//live/Ghosia104/pathan104/520391.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-tg | D2H TV9 Telugu FHD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGWwc6J_CWwA66v-jI97CuhnevfTV_5Nhnfqox3Vr7PfQ.png" group-title="✯IND✯ TELUGU",IN-tg | D2H TV9 Telugu FHD
+http://filex.me:8080//live/Ghosia104/pathan104/520394.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-tg | D2H Cartoon Network HD" tvg-logo="https://rolextv.one:443/images/r2pcQoljnXZZNRDBoCBNaND0lN_GURqmaZ93rpwZfq-GOPYAql32xfzEl1Fj_6tQb8coA7pGfeQpSU6m_bTlmmPcH648j4iZ6RtuFZO661_ieD_AN0TmsWHJkxm4S-fwzua3dZhtfUQqNA8yKcNFRQ.png" group-title="✯IND✯ TELUGU",IN-tg | D2H Cartoon Network HD
+http://filex.me:8080//live/Ghosia104/pathan104/520395.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-tg | D2H Discovery KIDS HD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGpPN7HGR8udiMTgBMCgzWTmfnr_vanPMwaQrnGMkl9w0.png" group-title="✯IND✯ TELUGU",IN-tg | D2H Discovery KIDS HD
+http://filex.me:8080//live/Ghosia104/pathan104/520396.ts
+#EXTINF:-1 tvg-id="disneyjunior.de" tvg-name="IN-tg | D2H Disney Junior HD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGY7pjxvY859TNyv8nRZtk_r29ncH2sw9hR9mfABqEAB8.png" group-title="✯IND✯ TELUGU",IN-tg | D2H Disney Junior HD
+http://filex.me:8080//live/Ghosia104/pathan104/520397.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-tg | TS POGO HD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMG2SjEGNAw2CmNTY9eUnBepA.png" group-title="✯IND✯ TELUGU",IN-tg | TS POGO HD
+http://filex.me:8080//live/Ghosia104/pathan104/520398.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-tg | D2H NICK HD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGwYMgyeHObSz8EwgJnqrRXQ.png" group-title="✯IND✯ TELUGU",IN-tg | D2H NICK HD
+http://filex.me:8080//live/Ghosia104/pathan104/520400.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-tg | STAR MAA GOLD HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-maa-gold-in.png" group-title="✯IND✯ TELUGU",IN-tg | STAR MAA GOLD HD
+http://filex.me:8080//live/Ghosia104/pathan104/522570.ts
+#EXTINF:-1 tvg-id="" tvg-name="ETV Telangana HD" tvg-logo="https://i.imgur.com/DkgvWTK.png" group-title="✯IND✯ TELUGU",ETV Telangana HD
+http://filex.me:8080//live/Ghosia104/pathan104/522571.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-tel | ETV Andra Pradesh HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_2_andhra_pradesh_in.png" group-title="✯IND✯ TELUGU",IN-tel | ETV Andra Pradesh HD
+http://filex.me:8080//live/Ghosia104/pathan104/522572.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-tel | Sakshi TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sakshi-tv-in.png" group-title="✯IND✯ TELUGU",IN-tel | Sakshi TV HD
+http://filex.me:8080//live/Ghosia104/pathan104/522573.ts
+#EXTINF:-1 tvg-id="cbnnews.us" tvg-name="IN-tel | NTV NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv-news-np.png" group-title="✯IND✯ TELUGU",IN-tel | NTV NEWS HD
+http://filex.me:8080//live/Ghosia104/pathan104/522574.ts
+#EXTINF:-1 tvg-id="" tvg-name="KHushi TV HD" tvg-logo="https://rolextv.one:443/images/Y_iLp5zM1z0Hv5o0voAY43gZWms8T5YIsuMWOBrHoUNaW1Iok-gldEpuPI9OfC_r.png" group-title="✯IND✯ TELUGU",KHushi TV HD
+http://filex.me:8080//live/Ghosia104/pathan104/522575.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAJ Musix Telugu HD" tvg-logo="https://i.imgur.com/PcU35KQ.png" group-title="✯IND✯ TELUGU",RAJ Musix Telugu HD
+http://filex.me:8080//live/Ghosia104/pathan104/522576.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR MAA Music HD" tvg-logo="https://i.imgur.com/vxP9L8p.png" group-title="✯IND✯ TELUGU",STAR MAA Music HD
+http://filex.me:8080//live/Ghosia104/pathan104/522577.ts
+#EXTINF:-1 tvg-id="STAR.SPORTS.1.in" tvg-name="IN | STAR Sports 1 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-1-hk-in.png" group-title="✯CRICKET✯ 4K",IN | STAR Sports 1 4K
+http://filex.me:8080//live/Ghosia104/pathan104/247159.ts
+#EXTINF:-1 tvg-id="STAR.SPORTS.2.HD.in" tvg-name="IN | STAR Sports 2 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-2-hk-in.png" group-title="✯CRICKET✯ 4K",IN | STAR Sports 2 4K
+http://filex.me:8080//live/Ghosia104/pathan104/247160.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN | Star sports 3 4K" tvg-logo="" group-title="✯CRICKET✯ 4K",IN | Star sports 3 4K
+http://filex.me:8080//live/Ghosia104/pathan104/846950.ts
+#EXTINF:-1 tvg-id="Star.Sports.Select.1.in" tvg-name="IN | STAR Sports Select 1 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd1-hk-in.png" group-title="✯CRICKET✯ 4K",IN | STAR Sports Select 1 4K
+http://filex.me:8080//live/Ghosia104/pathan104/247161.ts
+#EXTINF:-1 tvg-id="STAR.SPORTS.SELECT.2.in" tvg-name="IN | STAR Sports Select 2 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="✯CRICKET✯ 4K",IN | STAR Sports Select 2 4K
+http://filex.me:8080//live/Ghosia104/pathan104/247162.ts
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.1.in" tvg-name="IN | SONY Sports 1 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="✯CRICKET✯ 4K",IN | SONY Sports 1 4K
+http://filex.me:8080//live/Ghosia104/pathan104/247155.ts
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.2.in" tvg-name="IN | SONY Sports 2 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png" group-title="✯CRICKET✯ 4K",IN | SONY Sports 2 4K
+http://filex.me:8080//live/Ghosia104/pathan104/247156.ts
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.3.HD.in" tvg-name="IN | SONY Sports 3 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-3-in.png" group-title="✯CRICKET✯ 4K",IN | SONY Sports 3 4K
+http://filex.me:8080//live/Ghosia104/pathan104/247157.ts
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.5.in" tvg-name="IN | SONY Sports 5 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png" group-title="✯CRICKET✯ 4K",IN | SONY Sports 5 4K
+http://filex.me:8080//live/Ghosia104/pathan104/247158.ts
+#EXTINF:-1 tvg-id="" tvg-name="EN: Hbomax Action Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="✯EN✯ MOVIE 24/7",EN: Hbomax Action Movies HD
+http://filex.me:8080//live/Ghosia104/pathan104/508442.ts
+#EXTINF:-1 tvg-id="adventure.pl" tvg-name="EN: Hbomax Adventure Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="✯EN✯ MOVIE 24/7",EN: Hbomax Adventure Movies HD
+http://filex.me:8080//live/Ghosia104/pathan104/508443.ts
+#EXTINF:-1 tvg-id="" tvg-name="EN: Hbomax Animated Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="✯EN✯ MOVIE 24/7",EN: Hbomax Animated Movies HD
+http://filex.me:8080//live/Ghosia104/pathan104/508444.ts
+#EXTINF:-1 tvg-id="" tvg-name="EN: Hbomax Biography Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="✯EN✯ MOVIE 24/7",EN: Hbomax Biography Movies HD
+http://filex.me:8080//live/Ghosia104/pathan104/508445.ts
+#EXTINF:-1 tvg-id="" tvg-name="EN: Hbomax Comedy Movies 1 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="✯EN✯ MOVIE 24/7",EN: Hbomax Comedy Movies 1 HD
+http://filex.me:8080//live/Ghosia104/pathan104/508446.ts
+#EXTINF:-1 tvg-id="" tvg-name="EN: Hbomax Comedy Movies 2 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="✯EN✯ MOVIE 24/7",EN: Hbomax Comedy Movies 2 HD
+http://filex.me:8080//live/Ghosia104/pathan104/508447.ts
+#EXTINF:-1 tvg-id="" tvg-name="EN: Hbomax Comedy Movies 3 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="✯EN✯ MOVIE 24/7",EN: Hbomax Comedy Movies 3 HD
+http://filex.me:8080//live/Ghosia104/pathan104/508448.ts
+#EXTINF:-1 tvg-id="" tvg-name="EN: Hbomax Crime Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="✯EN✯ MOVIE 24/7",EN: Hbomax Crime Movies HD
+http://filex.me:8080//live/Ghosia104/pathan104/508449.ts
+#EXTINF:-1 tvg-id="" tvg-name="EN: Hbomax Documentary Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="✯EN✯ MOVIE 24/7",EN: Hbomax Documentary Movies HD
+http://filex.me:8080//live/Ghosia104/pathan104/508450.ts
+#EXTINF:-1 tvg-id="" tvg-name="EN: Hbomax Drama Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="✯EN✯ MOVIE 24/7",EN: Hbomax Drama Movies HD
+http://filex.me:8080//live/Ghosia104/pathan104/508451.ts
+#EXTINF:-1 tvg-id="" tvg-name="EN: Hbomax Fantasy Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="✯EN✯ MOVIE 24/7",EN: Hbomax Fantasy Movies HD
+http://filex.me:8080//live/Ghosia104/pathan104/508452.ts
+#EXTINF:-1 tvg-id="" tvg-name="EN: Hbomax Genre Family Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="✯EN✯ MOVIE 24/7",EN: Hbomax Genre Family Movies HD
+http://filex.me:8080//live/Ghosia104/pathan104/508453.ts
+#EXTINF:-1 tvg-id="" tvg-name="EN: Hbomax Horror Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="✯EN✯ MOVIE 24/7",EN: Hbomax Horror Movies HD
+http://filex.me:8080//live/Ghosia104/pathan104/508454.ts
+#EXTINF:-1 tvg-id="axnblack.pt" tvg-name="EN: Hbomax Movies 1 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="✯EN✯ MOVIE 24/7",EN: Hbomax Movies 1 HD
+http://filex.me:8080//live/Ghosia104/pathan104/508455.ts
+#EXTINF:-1 tvg-id="axnblack.pt" tvg-name="EN: Hbomax Movies 2 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="✯EN✯ MOVIE 24/7",EN: Hbomax Movies 2 HD
+http://filex.me:8080//live/Ghosia104/pathan104/508456.ts
+#EXTINF:-1 tvg-id="axnblack.pt" tvg-name="EN: Hbomax Movies 3 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="✯EN✯ MOVIE 24/7",EN: Hbomax Movies 3 HD
+http://filex.me:8080//live/Ghosia104/pathan104/508457.ts
+#EXTINF:-1 tvg-id="axnblack.pt" tvg-name="EN: Hbomax Movies 4 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="✯EN✯ MOVIE 24/7",EN: Hbomax Movies 4 HD
+http://filex.me:8080//live/Ghosia104/pathan104/508458.ts
+#EXTINF:-1 tvg-id="" tvg-name="EN: Hbomax Mystery Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="✯EN✯ MOVIE 24/7",EN: Hbomax Mystery Movies HD
+http://filex.me:8080//live/Ghosia104/pathan104/508459.ts
+#EXTINF:-1 tvg-id="" tvg-name="EN: Hbomax Romance Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="✯EN✯ MOVIE 24/7",EN: Hbomax Romance Movies HD
+http://filex.me:8080//live/Ghosia104/pathan104/508460.ts
+#EXTINF:-1 tvg-id="" tvg-name="EN: Hbomax SCI FI Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="✯EN✯ MOVIE 24/7",EN: Hbomax SCI FI Movies HD
+http://filex.me:8080//live/Ghosia104/pathan104/508461.ts
+#EXTINF:-1 tvg-id="" tvg-name="EN: Hbomax Sports Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="✯EN✯ MOVIE 24/7",EN: Hbomax Sports Movies HD
+http://filex.me:8080//live/Ghosia104/pathan104/508462.ts
+#EXTINF:-1 tvg-id="" tvg-name="EN: Hbomax Thriller Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="✯EN✯ MOVIE 24/7",EN: Hbomax Thriller Movies HD
+http://filex.me:8080//live/Ghosia104/pathan104/508463.ts
+#EXTINF:-1 tvg-id="GeminiComedy.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_COMEDY/images/LOGO_HD/image.png" group-title="Comedy",Gemini Comedy (360p) [Not 24/7]
+http://103.140.254.2:3500/live/729.m3u8
+#EXTINF:-1 tvg-id="GeminiLife.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_LIFE/images/LOGO_HD/image.png" group-title="Lifestyle",Gemini Life (360p)
+http://103.140.254.2:3500/live/684.m3u8
